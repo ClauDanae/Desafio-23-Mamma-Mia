@@ -1,0 +1,27 @@
+.Navbar {
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+
+}
+
+.container1 {
+    justify-content: start;
+}
+
+.container2 {
+    justify-content: end;
+}
+
+.imgicons {
+    width: 50px;
+    height: 40px;
+}
+
+.pnavbar {
+    color: white;
+    margin: 10px;
+    text-align: center;
+    
+}

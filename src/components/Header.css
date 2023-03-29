@@ -1,0 +1,11 @@
+header {
+    background-image: url('/public/banner-pizza.jpeg');
+    height: 180px;
+    text-align: center;
+}
+
+.header {
+    color: white;
+    flex-wrap: wrap;
+    background-color: black;
+}
